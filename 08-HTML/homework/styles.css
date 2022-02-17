@@ -1,23 +1,20 @@
-
 h1 {
-    color: orange;
+  color: orange;
 }
 .divClass {
-    background-color: blue;
+  background-color: blue;
 }
-    img {
-        width: 400px;
-    }
-    #thirdDiv{
-        height: 600px;
-        width: 500px;
-        background-color: red;
-        padding: 50px;
-        border: 20px solid black;
-    }
-    #spanId{
-        font-size: 18px;
-        margin: 50px;
-    }
-
-
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: red;
+  padding: 50px;
+  border: 20px solid black;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
